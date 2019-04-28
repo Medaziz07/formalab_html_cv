@@ -1,0 +1,36 @@
+h1,h2,h3
+{
+    color:red;
+    padding: 
+}
+
+body
+{
+    background-color: gold
+}
+ul 
+{
+    color: blue
+}
+li
+{
+    color:
+}
+
+a
+{
+    color:red;text-decoration:none
+}
+a:hover
+{
+color:green;text-decoration: underline;
+}
+a:visited
+{
+    color:grey;
+}
+
+p
+{
+    color:green;
+}
