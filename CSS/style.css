@@ -8,12 +8,12 @@ img
 h1
 {
 
-    color:#6495ED;
+    color:#ADD8E6;
     position: relative; top: 40%;
 }
 h2
 {
-    color:#FF8C00;
+    color:#90EE90;
     font-size:3em;
     font-family: American Typewriter, serif	;
     margin:-35px;
@@ -21,7 +21,7 @@ h2
 }
 h4
 {
-    color:#4B0082;
+    color:#B0C4DE;
     font-size: 25px;
     text-decoration: underline ;
 }
@@ -42,20 +42,20 @@ p.deux
 }
 p.un
 {
-    line-height: 100px;
+    line-height: 120px;
     color:#0000FF;
     
    
 }
 ul 
 {
-    color:#0000FF;
+    color:#20B2AA;
     width: 40%;
     padding: 60px;
     margin: auto;
     text-shadow: #FC0 1px 0 10px;
 
-}
+}   
 
 a
 {
