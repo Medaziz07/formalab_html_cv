@@ -1,36 +1,51 @@
-div
+img
 {
-    text-align:center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; 
 }
 
-h1,h2,h3
+h1
 {
-    color:red;
-    
+
+    color:#6495ED;
+    position: relative; top: 40%;
+}
+h2
+{
+    color:#B22222;
+    font-size:3em;
+    font-family: American Typewriter, serif	;
+    margin:-35px;
+
 }
 body
 {
+    font-weight: bolder;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
     background-image: url("../cv2.jpg");
     background-attachment:fixed;
     background-repeat:repeat;
-    background-position: center;
-    
+    background-position: center;  
+    font-display: justify; 
+    line-height: 
 }
-body
+
+p.un
 {
-   text-align: center;
+    line-height: 100px;
+    color:#0000FF;
+    
+   
 }
 ul 
 {
-    color: blue
-}
-li
-{
-    color:
+    color:#483D8B;
+    width: 40%;
+    padding: 40px;
+    margin: auto;
+
 }
 
 a
@@ -46,7 +61,3 @@ a:visited
     color:grey;
 }
 
-p
-{
-    color:green;
-}
