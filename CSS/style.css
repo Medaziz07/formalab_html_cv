@@ -13,7 +13,6 @@ body {
     margin-top: 15px;
     margin-left: 10px;
     line-height: 1em;
-    
 }
 
 .un img {
@@ -64,20 +63,20 @@ h2 {
     top: 585px;
 }
 
-.log
-{
-    
+.log {
     position: absolute;
     top: 285px;
     left: 650px;
 }
-.trois
-{
+
+.trois {
     position: absolute;
     top: 585px;
     left: 650px;
 }
-.log img
+
+.trois li
 {
-    float:lfet;
+    font-family: 'Baloo Bhai', cursive;
+font-size:20px;
 }
